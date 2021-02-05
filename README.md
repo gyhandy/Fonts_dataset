@@ -7,6 +7,8 @@ Andy Ge & Gan Xin
 Python 3.x, pygame
 ## Description:
 This script is for creating a fonts dataset with 5 attributes content, size, font_colors, background colors and styles. All attributes can have customized values. 
+
+If you use our dataset or code, please cite the following paper, thanks!
 ## Related Work
 **Zero-shot Synthesis with Group-Supervised Learning**  
 Yunhao Ge, Sami Abu-El-Haija, Gan Xin and Laurent Itti  
