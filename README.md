@@ -12,12 +12,13 @@ If you use our dataset or code, please cite the following paper, thanks!
 ## Related Work
 **Zero-shot Synthesis with Group-Supervised Learning**  
 Yunhao Ge, Sami Abu-El-Haija, Gan Xin and Laurent Itti  
-*arXiv:2009.06586</em>, 2020.*  
-Paper: https://arxiv.org/pdf/2009.06586.pdf
+*International Conference on Learning Representations</em>, 2021.*  
+Paper: https://openreview.net/pdf?id=8wqCDnBmnrT
 ## BibTeX
-@article{ge2020zero,  
-  title={Zero-shot Synthesis with Group-Supervised Learning},  
-  author={Ge, Yunhao and Abu-El-Haija, Sami and Xin, Gan and Itti, Laurent},  
-  journal={arXiv preprint arXiv:2009.06586},  
-  year={2020}  
+@inproceedings{ge2021zeroshot,
+  title={Zero-shot Synthesis with Group-Supervised Learning},
+  author={Yunhao Ge and Sami Abu-El-Haija and Gan Xin and Laurent Itti},
+  booktitle={International Conference on Learning Representations},
+  year={2021},
+  url={https://openreview.net/forum?id=8wqCDnBmnrT}
 }
